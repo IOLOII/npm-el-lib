@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "build:lib":"vue-cli-service build --target lib --dest lib --name test-comp-base packages/index.js"
+
   },
   "dependencies": {
     "core-js": "^3.6.5",
