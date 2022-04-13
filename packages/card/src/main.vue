@@ -21,3 +21,4 @@
     }
   };
 </script>
+<style lang="scss" src="../../theme/card.scss"></style>

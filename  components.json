@@ -1,6 +1,5 @@
-// 后续每次的新增都需要再次配置。
 {
   "button": "./packages/button/index.js",
   "card": "./packages/card/index.js",
-  "index": "./packages/index.js" // 主文件
+  "index": "./packages/index.js"
 }

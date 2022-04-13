@@ -76,3 +76,4 @@
     }
   };
 </script>
+<style lang="scss" src="../../theme/button.scss"></style>
